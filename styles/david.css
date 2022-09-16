@@ -1,3 +1,5 @@
+/* This sectiion is for the Nav element */
+
 .nav ul {
   list-style-type: none;
   margin: 0;
@@ -20,4 +22,10 @@
 
 .nav li a:hover {
   background-color: #111;
+}
+
+/* This section is for the mid-container */
+
+.mid-container img {
+  float: left;
 }
