@@ -24,8 +24,16 @@
   background-color: #111;
 }
 
+/* This section is for the HTML as a whole*/
+
+/* This section is for the body */
+body {
+  
+}
+
 /* This section is for the mid-container */
 
 .mid-container img {
   float: left;
 }
+
